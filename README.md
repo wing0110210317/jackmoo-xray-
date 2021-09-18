@@ -5,11 +5,11 @@
 ## 一键脚本
 
 
-`bash <(curl -sL https://raw.githubusercontent.com/wing0110210317/jackmoo-xray-/main/trojan.sh)
+bash <(curl -sL https://raw.githubusercontent.com/wing0110210317/jackmoo-xray-/main/trojan.sh)
 
-`bash <(curl -sL https://raw.githubusercontent.com/wing0110210317/jackmoo-xray-/main/xray.sh)
+bash <(curl -sL https://raw.githubusercontent.com/wing0110210317/jackmoo-xray-/main/xray.sh)
 
-`bash <(curl -sL https://raw.githubusercontent.com/wing0110210317/jackmoo-xray-/main/ss.sh)
+bash <(curl -sL https://raw.githubusercontent.com/wing0110210317/jackmoo-xray-/main/ss.sh)
 
 
 
